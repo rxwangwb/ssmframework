@@ -87,7 +87,7 @@
         <dependency>
             <groupId>org.mybatis</groupId>
             <artifactId>mybatis-spring</artifactId>
-            <version>1.2.1</version>
+            <version>${mybatis-spring.version}</version>
         </dependency>
         <!-- 日志文件管理包 -->
         <!--Log4j2配置-->
